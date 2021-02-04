@@ -1,3 +1,8 @@
+
+Estudiante 1: David Lopez Velez
+
+Estudiante 2: Andres Camilo Llanos
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
