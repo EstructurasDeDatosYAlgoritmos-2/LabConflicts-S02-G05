@@ -1,3 +1,7 @@
+Estudiante 1: David Lopez Velez
+
+Estudiante 2: Andres Camilo Llanos
+
 #ISIS1225 - Estructura de un proyecto
 Estudiante 1: Santiago 
 Estudiante 2: Andrés Camilo Llanos
